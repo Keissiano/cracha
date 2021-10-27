@@ -5,7 +5,7 @@ function showMeSomething() {
 const LinksSocialMedia = {
   github: 'keissiano',
   youtube: 'channel/UCS0RYWmWllnVA8WF2KnIo2Q',
-  facebook: 'keissiano',
+  facebook: 'keissiano.ronconi',
   instagram: 'keissiano',
   twitter: '/i/'
 }
